@@ -1,8 +1,9 @@
 # Simple UUID in Laravel
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/fyggi/laravel-simple-uuid.svg?style=flat-square)](https://packagist.org/packages/fyggi/laravel-simple-uuid)
-[![Quality Score](https://img.shields.io/scrutinizer/g/fyggi/laravel-simple-uuid.svg?style=flat-square)](https://scrutinizer-ci.com/g/fyggi/laravel-simple-uuid)
 [![Total Downloads](https://img.shields.io/packagist/dt/fyggi/laravel-simple-uuid.svg?style=flat-square)](https://packagist.org/packages/fyggi/laravel-simple-uuid)
+[![Quality Score](https://img.shields.io/scrutinizer/g/fyggi/laravel-simple-uuid.svg?style=flat-square)](https://scrutinizer-ci.com/g/fyggi/laravel-simple-uuid)
+[![StyleCI](https://github.styleci.io/repos/253307873/shield?branch=master)](https://github.styleci.io/repos/253307873)
 [![Treeware](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Treeware&query=%24.total&url=https%3A%2F%2Fpublic.offset.earth%2Fusers%2Ftreeware%2Ftrees)](https://treeware.earth)
 
 This package adds a simple trait to add UUID to your Laravel models.  When using the trait, it automatically sets the route key and route key name to the UUID.
