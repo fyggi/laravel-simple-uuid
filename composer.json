@@ -1,0 +1,37 @@
+{
+    "name": "fyggi/laravel-simple-uuid",
+    "description": "This package adds a simple trait to add UUID to your models.",
+    "keywords": [
+        "fyggi",
+        "laravel-simple-uuid",
+        "uuid",
+        "laravel"
+    ],
+    "homepage": "https://github.com/fyggi/laravel-simple-uuid",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Peter Brinck",
+            "email": "peter@peterbrinck.dk",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "illuminate/support": "^7.0",
+        "ramsey/uuid": "^4.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^5.0",
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fyggi\\SimpleUuid\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
