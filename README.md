@@ -42,7 +42,7 @@ If you discover any security related issues, please email peter@fyggi.dk instead
 
 ## Credits
 
-- [Peter Brinck](https://github.com/fyggi)
+- [Peter Brinck](https://github.com/peterbrinck)
 - [All Contributors](../../contributors)
 
 ## License
@@ -54,7 +54,7 @@ You're free to use this package, but if it makes it to your production environme
 
 It’s now common knowledge that one of the best tools to tackle the climate crisis and keep our temperatures from rising above 1.5C is to <a href="https://www.bbc.co.uk/news/science-environment-48870920">plant trees</a>. If you support this package and contribute to the Treeware forest you’ll be creating employment for local families and restoring wildlife habitats.
 
-You can buy trees here [offset.earth/treeware](https://plant.treeware.earth/{vendor}/{package})
+You can buy trees here [offset.earth/treeware](https://plant.treeware.earth/fyggi/laravel-simple-uuid)
 
 Read more about Treeware at [treeware.earth](http://treeware.earth)
 
